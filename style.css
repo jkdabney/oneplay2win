@@ -1,0 +1,39 @@
+img{
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.run{
+    display: flex;
+    justify-content: center
+}
+body {
+    background-color: #C83803;
+}
+
+.text {
+    color: #0B162A;
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    color: #0B162A;
+    font-family: "Graduate", serif;
+    font-weight: 400;
+    font-style: normal;   
+}
+
+.main{
+    width:400px;
+    margin: 0 auto;
+}
+
+button {
+    display: flex;
+    justify-content: space-evenly;
+}
